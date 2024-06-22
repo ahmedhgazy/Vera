@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/home",
+    "/home/details",
+    "/home/expertise",
+    "/home/news",
+    "/home/pricing",
+    "/home/projects",
+    "/home/solutions"
+  ]
+}

@@ -1,0 +1,11 @@
+.details .vertical-decoration {
+  left: 0;
+  top: 0;
+  width: 24px;
+}
+
+.details-2 .vertical-decoration {
+  right: 0;
+  top: 5%;
+  width: 24px;
+}/*# sourceMappingURL=details.component.css.map */

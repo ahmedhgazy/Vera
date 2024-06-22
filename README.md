@@ -1,5 +1,8 @@
 # Vera
 
+Vera is a Software Solutions Componay UI Template Converted To Angular v17
+Demo:
+(https://vera-gamma.vercel.app/)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Development server

@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Software Solutions Componay UI Template Converted To Angular v17
+Vera is a Software Solutions company  UI Template Converted To Angular v17
 ## Demo:
 (https://vera-gamma.vercel.app/)
 
